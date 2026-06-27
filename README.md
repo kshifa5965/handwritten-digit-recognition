@@ -165,7 +165,5 @@ Internship Project
 
 ---
 
-## License
 
-This project is developed for educational and internship purposes only.<img width="442" height="429" alt="7" src="https://github.com/user-attachments/assets/1409cb58-c25e-4543-ac18-2aa8962dfeb4" />
 
