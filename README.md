@@ -169,6 +169,3 @@ Internship Project
 
 This project is developed for educational and internship purposes only.<img width="442" height="429" alt="7" src="https://github.com/user-attachments/assets/1409cb58-c25e-4543-ac18-2aa8962dfeb4" />
 <img width="442" height="429" alt="7" src="https://github.com/user-attachments/assets/c05be31d-ba90-4a97-9b00-57ed89f261e8" />
-<img width="442" height="429" alt="7" src="https://github.com/user-attachments/assets/25cb0099-a72b-4e6d-a5d6-8c92ddbf8c1d" />
-<img width="442" height="429" alt="7" src="https://github.com/user-attachments/assets/254b7884-61bb-4dd5-8d07-cc500a14b5ab" />
-<img width="442" height="429" alt="7" src="https://github.com/user-attachments/assets/83ab8a4c-b70b-488b-820d-fc406b601e2f" />
